@@ -1,4 +1,4 @@
-onlp-quanta
+onlp-centec
 ===========
 
-Open Network Linux Platform Implementations for Quanta Platforms
+Open Network Linux Platform Implementations for Centec Platforms
